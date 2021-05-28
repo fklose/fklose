@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @fklose
-- 👀 I’m interested in computational physics, robotics, microcontrollers and software development
-- 🌱 I’m currently learning Rust and C++
-<!---
-fklose/fklose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Felix. I am currently pursuing a BSc. in Physics at the University of British Columbia. On my GitHub you will find my personal projects, as well as a selection of projects that I have completed as part of various courses throughout my undergrad.
