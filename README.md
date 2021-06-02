@@ -1,1 +1,1 @@
-Hi, I am Felix. I am currently pursuing a BSc. in Physics at the University of British Columbia. On my GitHub you will find my personal projects, as well as a selection of projects that I have completed as part of various courses throughout my undergrad.
+Hi, I am Felix. I am currently pursuing a BSc. in Physics at the University of British Columbia. On my GitHub you will find my personal projects, as well as a selection of projects that I have completed as part my undergrad so far.
